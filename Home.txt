@@ -1,0 +1,74 @@
+import React from "react"
+import "./styles.css"
+
+export default function Home() {
+  return (
+    <div className="home clip-contents">
+      <div className="group-644">
+        <div className="group-26">
+          <img
+            src="https://firebasestorage.googleapis.com/v0/b/unify-v3-copy.appspot.com/o/7prq42uv23-2001%3A2?alt=media&token=3fe61092-80ce-4ea2-9771-19a85f099cb5"
+            alt="Not Found"
+            className="group-17"
+          />
+          <div className="group-740">
+            <div className="group-20">
+              <img
+                src="https://firebasestorage.googleapis.com/v0/b/unify-v3-copy.appspot.com/o/7prq42uv23-25%3A40?alt=media&token=d0069739-5a96-4c1c-9931-b0104b86cbf4"
+                alt="Not Found"
+                className="school-_fill-0-_wght-400-_grad0-_opsz-481"
+              />
+              <p className="infocursos">InfoCursos</p>
+            </div>
+            <p className="ol-usu-rio-seja-bem-vindo">
+              Olá, Usuário! seja bem-vindo à plataforma de cursos técnicos
+            </p>
+          </div>
+        </div>
+        <div className="group-863">
+          <div className="rectangle-5" />
+          <div className="rectangle-4" />
+        </div>
+        <div className="group-714">
+          <div className="group-25">
+            <p className="cursos">Cursos</p>
+          </div>
+          <div className="group-24">
+            <p className="not-cias">Notícias</p>
+          </div>
+          <div className="group-23">
+            <p className="curiosidades">Curiosidades</p>
+          </div>
+        </div>
+        <div className="group-22">
+          <p className="explore-temas-que-vodes">
+            Explore temas que vão desde desenvolvimento de software até
+            fotografia criativa. Com instrutores especializados e a
+            flexibilidade de aprender no seu próprio ritmo, você está pronto
+            para expandir horizontes e conquistar novas habilidades.
+          </p>
+        </div>
+        <div className="group-18">
+          <p className="com-uma-abordagem-pr-tic">
+            Com uma abordagem prática e focada no desenvolvimento de habilidades
+            essenciais, cada curso é uma etapa em direção a uma carreira mais
+            gratificante e uma vida mais realizada.
+          </p>
+        </div>
+        <div className="group-482">
+          <div className="group-16">
+            <p className="comece-j">Comece Já!</p>
+          </div>
+        </div>
+        <div className="group-19">
+          <p className="seja-qual-for-oseu-inter">
+            Seja qual for o seu interesse ou objetivo, nossa plataforma oferece
+            uma experiência de aprendizado excepcional. Desde cursos práticos
+            até conteúdos teóricos, estamos aqui para ajudá-lo a alcançar suas
+            metas.
+          </p>
+        </div>
+      </div>
+    </div>
+  )
+}
