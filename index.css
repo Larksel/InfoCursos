@@ -9,6 +9,10 @@
   font-size: 16px;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
   min-height: 100vh;
 }
