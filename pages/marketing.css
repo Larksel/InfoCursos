@@ -1,3 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  min-height: 100vh;
+}
+
 .e36_71 {
   background-color: rgba(223.00000190734863, 245.00000059604645, 255, 1);
   width: 360px;
@@ -62,7 +80,7 @@
   left: 23px;
   top: 16px;
   text-align: left;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0;
 }
 .e2001_14 {
