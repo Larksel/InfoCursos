@@ -2,46 +2,16 @@
 
 .e4_11 {
   background-color: rgba(223.00000190734863, 245.00000059604645, 255, 1);
-  width: 360px;
-  height: 849px;
-  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 16px;
+  gap: 16px;
 }
-.e2001_26 {
-  width: 154px;
-  height: 154px;
-  position: absolute;
-  left: 190px;
-  top: 333px;
-}
-.e11_35 {
-  background-color: rgba(
-    103.0000014603138,
-    198.00000339746475,
-    227.00000166893005,
-    1
-  );
-  width: 154px;
-  height: 154px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
-}
-.e29_8 {
-  color: rgba(255, 255, 255, 1);
-  width: 116px;
-  height: 58px;
-  position: absolute;
-  left: 19px;
-  top: 48px;
-  font-family: Inter;
-  text-align: center;
-  font-size: 24px;
-  letter-spacing: 0;
-}
+
 .e2001_24 {
   width: 154px;
   height: 154px;
@@ -49,13 +19,12 @@
   left: 16px;
   top: 506px;
 }
+
 .e11_30 {
-  background-color: rgba(
-    103.0000014603138,
-    198.00000339746475,
-    227.00000166893005,
-    1
-  );
+  background-color: rgba(103.0000014603138,
+      198.00000339746475,
+      227.00000166893005,
+      1);
   width: 154px;
   height: 154px;
   position: absolute;
@@ -66,6 +35,7 @@
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
+
 .e29_9 {
   color: rgba(255, 255, 255, 1);
   width: 114px;
@@ -78,6 +48,7 @@
   font-size: 24px;
   letter-spacing: 0;
 }
+
 .e2001_23 {
   width: 154px;
   height: 154px;
@@ -85,13 +56,12 @@
   left: 190px;
   top: 506px;
 }
+
 .e11_36 {
-  background-color: rgba(
-    103.0000014603138,
-    198.00000339746475,
-    227.00000166893005,
-    1
-  );
+  background-color: rgba(103.0000014603138,
+      198.00000339746475,
+      227.00000166893005,
+      1);
   width: 154px;
   height: 154px;
   position: absolute;
@@ -102,6 +72,7 @@
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
+
 .e29_11 {
   color: rgba(255, 255, 255, 1);
   width: 90px;
@@ -114,6 +85,7 @@
   font-size: 24px;
   letter-spacing: 0;
 }
+
 .e2001_22 {
   width: 154px;
   height: 154px;
@@ -121,13 +93,12 @@
   left: 103px;
   top: 679px;
 }
+
 .e11_31 {
-  background-color: rgba(
-    103.0000014603138,
-    198.00000339746475,
-    227.00000166893005,
-    1
-  );
+  background-color: rgba(103.0000014603138,
+      198.00000339746475,
+      227.00000166893005,
+      1);
   width: 154px;
   height: 154px;
   position: absolute;
@@ -138,6 +109,7 @@
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
+
 .e29_12 {
   color: rgba(255, 255, 255, 1);
   width: 69px;
@@ -150,6 +122,7 @@
   font-size: 24px;
   letter-spacing: 0;
 }
+
 .e2001_25 {
   width: 154px;
   height: 154px;
@@ -157,13 +130,12 @@
   left: 16px;
   top: 333px;
 }
+
 .e11_29 {
-  background-color: rgba(
-    103.0000014603138,
-    198.00000339746475,
-    227.00000166893005,
-    1
-  );
+  background-color: rgba(103.0000014603138,
+      198.00000339746475,
+      227.00000166893005,
+      1);
   width: 154px;
   height: 154px;
   position: absolute;
@@ -174,6 +146,7 @@
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
+
 .e11_41 {
   color: rgba(255, 255, 255, 1);
   width: 120px;
@@ -186,110 +159,65 @@
   font-size: 24px;
   letter-spacing: 0;
 }
+
 .e2001_29 {
-  width: 328px;
+  width: 100%;
   height: 200px;
-  position: absolute;
-  left: 16px;
-  top: 98px;
+  border-radius: 8px;
+  background-color: rgba(103,
+      198,
+      227,
+      1);
 }
-.e2001_28 {
-  background-color: rgba(
-    103.0000014603138,
-    198.00000339746475,
-    227.00000166893005,
-    1
-  );
-  width: 328px;
-  height: 200px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  border-bottom-left-radius: 8px;
-  border-bottom-right-radius: 8px;
-}
+
 .e2001_27 {
-  width: 168px;
-  height: 32px;
-  position: absolute;
-  left: 16px;
-  top: 48px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
 .e11_26 {
-  background-color: rgba(83.00000265240669, 86.00000247359276, 255, 1);
-  width: 168px;
-  height: 32px;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  border-top-left-radius: 16px;
-  border-top-right-radius: 16px;
-  border-bottom-left-radius: 16px;
-  border-bottom-right-radius: 16px;
+  background-color: rgba(83, 86, 255, 1);
+  padding: 8px 16px;
+  border-radius: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .e11_27 {
   color: rgba(255, 255, 255, 1);
-  width: 70px;
-  height: 24px;
-  position: absolute;
-  left: 49px;
-  top: 4px;
   font-family: Inter;
-  text-align: left;
-  font-size: 20px;
-  letter-spacing: 0;
+  font-size: 1.2rem;
 }
-.e22_31 {
-  width: 32px;
-  height: 32px;
-  position: absolute;
-  left: 312px;
-  top: 48px;
-  color: rgba(
-    46.000001057982445,
-    48.000000938773155,
-    140.00000685453415,
-    1
-  );
+
+.card {
+  width: 154px;
+  height: 154px;
+  background-color: rgba(103.0000014603138,
+      198.00000339746475,
+      227.00000166893005,
+      1);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.e22_32 {
-  color: rgba(
-    46.000001057982445,
-    48.000000938773155,
-    140.00000685453415,
-    1
-  );
+
+.card span {
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.cursos-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(2,auto);
+  justify-content: space-evenly;
+  align-items: center;
   width: 100%;
-  height: 100%;
-  position: absolute;
-  left: 5.333333492279053px;
-  top: 5.333333492279053px;
-}
-.e25_42 {
-  width: 32px;
-  height: 32px;
-  position: absolute;
-  left: 164px;
-  top: 6px;
-  color: rgba(
-    46.000001057982445,
-    48.000000938773155,
-    140.00000685453415,
-    1
-  );
-}
-.e25_43 {
-  color: rgba(
-    46.000001057982445,
-    48.000000938773155,
-    140.00000685453415,
-    1
-  );
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  left: 1.333333134651184px;
-  top: 3.999999761581421px;
+  user-select: none;
 }
